@@ -1,4 +1,4 @@
-# text-utils
+# text
 
 Generic text styles
 
@@ -6,11 +6,11 @@ Generic text styles
 
 ### DuoJS
 
-    @import "digitaledgeit/css-text-utils";
+    @import "digitaledgeit/css-text";
 
 ### Component
 
-    composer install digitaledgeit/css-text-utils
+    composer install digitaledgeit/css-text
     
 ## Usage
     

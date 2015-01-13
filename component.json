@@ -1,5 +1,5 @@
 {
-	"name": "text-utils",
+	"name": "text",
 	"description": "Generic text styles",
 	"main": "index.css",
 	"scripts": ["index.css"],
