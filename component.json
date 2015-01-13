@@ -1,0 +1,5 @@
+{
+	"name": "lists",
+	"main": "index.css",
+	"scripts": ["index.css"]
+}
