@@ -1,14 +1,44 @@
 
-.list {
-	margin: 0;
-	padding: 0;
+/* --- Alignment --- */
+
+[u-text~="left"] {
+	text-align: left;
 }
 
-.list--horizontal {
-	font-size: 0;
+[u-text~="center"] {
+	text-align: center;
 }
 
-.list--horizontal .list__item {
-	display: inline-block;
-	font-size: 1rem;
+[u-text~="right"] {
+	text-align: right;
+}
+
+[u-text~="justify"] {
+	text-align: justify;
+}
+
+/* --- Style --- */
+
+[u-text~="italic"] {
+	font-style: italic;
+}
+
+/* --- Weight --- */
+
+[u-text~="light"] {
+	font-weight: 200;
+}
+
+[u-text~="normal"] {
+	font-weight: 400;
+}
+
+[u-text~="bold"] {
+	font-weight: 700;
+}
+
+/* --- Transform --- */
+
+[u-text~="uppercase"] {
+	text-transform: uppercase;
 }

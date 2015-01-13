@@ -1,33 +1,20 @@
-# lists
+# text-utils
 
-Generic structural list styles
+Generic text styles
 
 ## Installation
 
 ### DuoJS
 
-    @import "digitaledgeit/css-lists";
+    @import "digitaledgeit/css-text-utils";
 
 ### Component
 
-    composer install digitaledgeit/css-lists
+    composer install digitaledgeit/css-text-utils
     
 ## Usage
-
-### Horizontal list
-
-Used for horizontal list structures e.g. horizontal navigation
-
-Code:
-
-    <ul class="list list--horizontal">
-        <li class="list__item"><a href="/">Home</a></li>
-        <li class="list__item"><a href="http://www.google.com/">Google</a></li>
-    </ul>
     
-Output:
-
-    Home Google
+    <p u-text="center bold uppercase">Lorem ipsum...</p>
     
 ## License
 
