@@ -1,6 +1,6 @@
 # lists
 
-Generic list styles
+Generic structural list styles
 
 ## Installation
 
