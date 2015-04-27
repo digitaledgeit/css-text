@@ -1,0 +1,9 @@
+{
+	"name": "text",
+    "private": true,
+    "version": "0.1.0",
+	"description": "Generic text styles",
+	"main": "index.css",
+	"scripts": ["index.css"],
+	"license": "MIT"
+}
